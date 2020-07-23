@@ -8,4 +8,5 @@ int main()
     printf("from PC2¥n");
     
     return 0;
+    printf("from PC4¥n");
 }
