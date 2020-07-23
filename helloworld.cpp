@@ -7,6 +7,7 @@ int main()
     printf("from PC¥n");
     printf("from PC2¥n");
     printf("from develop¥n");
+    printf("from develop2¥n");
     
     return 0;
 }
